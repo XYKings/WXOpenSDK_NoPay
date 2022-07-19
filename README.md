@@ -22,7 +22,7 @@ pod 'WXOpenSDK_NoPay'
 
 ## Author
 
-薛野, ye.xue@yo-star.com
+xueye, ye.xue@yo-star.com
 
 ## License
 
